@@ -1,4 +1,6 @@
-document.getElementById('contact-form').addEventListener('submit', function(event) {
-    event.preventDefault();
-    alert('Thank you for your message!');
-});
+function toggleMenu() {
+    const menu = document.querySelector(".menu-links");
+    const icon = document.querySelector(".hamburger-icon");
+    menu.classList.toggle("open");
+    icon.classList.toggle("open");
+  }
