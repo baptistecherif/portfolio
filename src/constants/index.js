@@ -5,7 +5,7 @@ import {
     computer,
     javascript,
     typescript,
-    html,
+    //html,
     css,
     reactjs,
     redux,
@@ -15,10 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
+    //meta,
     jcizzo,
-    tesla,
-    shopify,
+    //tesla,
+    //shopify,
     carrent,
     jobit,
     tripguide,
@@ -64,10 +64,10 @@ import {
   ];
   
   const technologies = [
-    {
+    /*{
       name: "HTML 5",
       icon: html,
-    },
+    },*/
     {
       name: "CSS 3",
       icon: css,
@@ -126,10 +126,10 @@ import {
       iconBg: "#383E56",
       date: "May 2024 - June 2024",
       points: [
-        "oui.",
-        "oui.",
-        "oui.",
-        "oui.",
+        "Patchbay management and doing Desktop mastering in all the company.",
+        "Deployment of workstations and software within the company to ensure that all computer workstations are operational.",
+        "Troubleshooting and resolving bugs, as well as managing IT assets and associated tickets.",
+        "Participating in IT reviews and providing constructive feedback to the System and Network Administrator.",
       ],
     },
     /*{
