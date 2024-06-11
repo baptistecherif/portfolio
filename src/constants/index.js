@@ -4,24 +4,24 @@ import {
     virtucloud,
     computer,
     javascript,
-    typescript,
+    //typescript,
     html,
     css,
-    reactjs,
-    redux,
-    tailwind,
-    nodejs,
+    //reactjs,
+    //redux,
+    //tailwind,
+    //nodejs,
     mongodb,
     git,
-    figma,
+    //figma,
     docker,
     //meta,
     jcizzo,
     //tesla,
     //shopify,
-    carrent,
-    jobit,
-    tripguide,
+    pong,
+    //jobit,
+    //tripguide,
   } from "../assets";
   
   export const navLinks = [
@@ -171,13 +171,13 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "Baptiste is competent in his field as well as curious, a great asset to have in your company.",
+      name: "Maxime Vasserot",
+      designation: "ATI",
+      company: "Collège Jean-Claude Izzo",
+      image: "https://randomuser.me/api/portraits/men/6.jpg",
     },
-    {
+    /*{
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Rick does.",
       name: "Chris Brown",
@@ -192,32 +192,32 @@ import {
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    },*/
   ];
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Pong",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Local game to play, and you don't need an internet to play it.",
       tags: [
         {
-          name: "react",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "css",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "js",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: pong,
+      source_code_link: "https://github.com/baptistecherif/TP2_pong",
     },
-    {
+    /*{
       name: "Job IT",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
@@ -258,7 +258,7 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/",
-    },
+    },*/
   ];
   
   export { services, technologies, experiences, testimonials, projects };

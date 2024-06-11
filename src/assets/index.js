@@ -25,7 +25,7 @@ import typescript from "./tech/typescript.png";
 import jcizzo from "./company/jcizzo.png";
 //import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
+import pong from "./pong.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -40,21 +40,21 @@ export {
   close,
   css,
   docker,
-  figma,
+  //figma,
   git,
   html,
   javascript,
   mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
+  //nodejs,
+  //reactjs,
+  //redux,
+  //tailwind,
+  //typescript,
   //meta,
   //shopify,
   jcizzo,
   //tesla,
-  carrent,
-  jobit,
-  tripguide,
+  pong,
+  //jobit,
+  //tripguide,
 };
