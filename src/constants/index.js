@@ -16,7 +16,7 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    jcizzo,
     tesla,
     shopify,
     carrent,
@@ -59,7 +59,7 @@ import {
     },
     {
       title: "Network Design & Architecture",
-      icon: virtucloud,
+      icon: computer,
     },
   ];
   
@@ -120,19 +120,19 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "System and Network Administrator",
+      company_name: "Collège Jean-Claude Izzo",
+      icon: jcizzo,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2024 - June 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "oui.",
+        "oui.",
+        "oui.",
+        "oui.",
       ],
     },
-    {
+    /*{
       title: "React Native Developer",
       company_name: "Tesla",
       icon: tesla,
@@ -170,7 +170,7 @@ import {
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-    },
+    },*/
   ];
   
   const testimonials = [
