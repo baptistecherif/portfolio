@@ -48,11 +48,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Meet Baptiste, a dynamic and ambitious IT student whose relentless dedication to learning has already made him the top performer in his class. 
+        Baptiste's passion for IT is matched only by his commitment to constant self-improvement. 
+        Whether it's mastering the latest network protocols, diving into complex configurations, 
+        or staying ahead with cutting-edge technologies, Baptiste's insatiable curiosity and drive ensure he is always at the forefront of his field. 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

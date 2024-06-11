@@ -1,8 +1,8 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
+    monimana,
+    protoauto,
+    virtucloud,
+    computer,
     javascript,
     typescript,
     html,
@@ -42,20 +42,24 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "Network Administration & Security",
+      icon: computer,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Network Monitoring & Management Tools",
+      icon: monimana,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "Network Protocols & Automation",
+      icon: protoauto,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Virtualization & Cloud Computing",
+      icon: virtucloud,
+    },
+    {
+      title: "Network Design & Architecture",
+      icon: virtucloud,
     },
   ];
   
