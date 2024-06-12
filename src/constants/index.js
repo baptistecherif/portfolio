@@ -24,6 +24,9 @@ import {
     googlecloud,
     azure,
     vagrant,
+    apple,
+    linux,
+    windows,
     //meta,
     jcizzo,
     //tesla,
@@ -155,6 +158,18 @@ import {
     {
       name: "Vagrant",
       icon: vagrant,
+    },
+    {
+      name: "Apple",
+      icon: apple,
+    },
+    {
+      name: "Linux",
+      icon: linux,
+    },
+    {
+      name: "Windows",
+      icon: windows,
     },
   ];
   

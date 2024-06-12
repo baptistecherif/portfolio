@@ -28,6 +28,9 @@ import aws from "./tech/aws.png";
 import googlecloud from "./tech/googlecloud.png";
 import azure from "./tech/azure.png";
 import vagrant from "./tech/vagrant.png";
+import apple from "./tech/apple.png";
+import linux from "./tech/linux.png";
+import windows from "./tech/windows.png";
 
 //import meta from "./company/meta.png";
 //import shopify from "./company/shopify.png";
@@ -68,6 +71,9 @@ export {
   googlecloud,
   azure,
   vagrant,
+  apple,
+  linux,
+  windows,
   //meta,
   //shopify,
   jcizzo,
