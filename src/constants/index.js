@@ -16,6 +16,14 @@ import {
     python,
     bash,
     docker,
+    vmware,
+    hyperv,
+    solarwinds,
+    cisco,
+    aws,
+    googlecloud,
+    azure,
+    vagrant,
     //meta,
     jcizzo,
     //tesla,
@@ -116,6 +124,38 @@ import {
       name: "Docker",
       icon: docker,
     },
+    {
+      name: "VMware",
+      icon: vmware,
+    },
+    {
+      name: "Hyper-v",
+      icon: hyperv,
+    },
+    {
+      name: "SolarWinds",
+      icon: solarwinds,
+    },
+    {
+      name: "cisco",
+      icon: cisco,
+    },
+    {
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "Google Cloud",
+      icon: googlecloud,
+    },
+    {
+      name: "Microsft Azure",
+      icon: azure,
+    },
+    {
+      name: "Vagrant",
+      icon: vagrant,
+    },
   ];
   
   const experiences = [
@@ -180,7 +220,7 @@ import {
       name: "Maxime Vasserot",
       designation: "ATI",
       company: "Collège Jean-Claude Izzo",
-      image: "https://randomuser.me/api/portraits/men/6.jpg",
+      image: "https://randomuser.me/api/portraits/men/2.jpg",
     },
     /*{
       testimonial:

@@ -9,8 +9,8 @@ import close from "./close.svg";
 
 import powershell from "./tech/powershell.png";
 import docker from "./tech/docker.png";
-import python from "./tech/python.png"
-import bash from "./tech/bash.png"
+import python from "./tech/python.png";
+import bash from "./tech/bash.png";
 import git from "./tech/git.png";
 import go from "./tech/go.png";
 import json from "./tech/json.png";
@@ -20,6 +20,14 @@ import ansible from "./tech/ansible.png";
 import kubernetes from "./tech/kubernetes.png";
 import github1 from "./tech/github1.png";
 import yaml from "./tech/yaml.png";
+import vmware from "./tech/vmware.png";
+import hyperv from "./tech/hyperv.png";
+import solarwinds from "./tech/solarwinds.png";
+import cisco from "./tech/cisco.png";
+import aws from "./tech/aws.png";
+import googlecloud from "./tech/googlecloud.png";
+import azure from "./tech/azure.png";
+import vagrant from "./tech/vagrant.png";
 
 //import meta from "./company/meta.png";
 //import shopify from "./company/shopify.png";
@@ -51,7 +59,15 @@ export {
   ansible,
   kubernetes,
   github1,
+  vmware,
+  hyperv,
   yaml,
+  solarwinds,
+  cisco,
+  aws,
+  googlecloud,
+  azure,
+  vagrant,
   //meta,
   //shopify,
   jcizzo,
