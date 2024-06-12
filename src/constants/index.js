@@ -3,17 +3,18 @@ import {
     protoauto,
     virtucloud,
     computer,
-    javascript,
-    //typescript,
-    html,
-    css,
-    //reactjs,
-    //redux,
+    json,
+    yaml,
+    go,
+    powershell,
+    kubernetes,
     //tailwind,
-    //nodejs,
+    nodejs,
+    mysql,
     mongodb,
     git,
-    //figma,
+    python,
+    bash,
     docker,
     //meta,
     jcizzo,
@@ -64,51 +65,55 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "GO",
+      icon: go,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Python",
+      icon: python,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    /*{
-      name: "TypeScript",
-      icon: typescript,
+      name: "Bash",
+      icon: bash,
     },
     {
-      name: "React JS",
-      icon: reactjs,
+      name: "PowerShell",
+      icon: powershell,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "JSON",
+      icon: json,
     },
     {
+      name: "YAML",
+      icon: yaml,
+    },
+    {
+      name: "Kubernetes",
+      icon: kubernetes,
+    },
+   /* {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
+    },*/
     {
       name: "Node JS",
       icon: nodejs,
-    },*/
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
     {
       name: "MongoDB",
       icon: mongodb,
     },
     {
-      name: "git",
+      name: "Git",
       icon: git,
     },
-    /*{
-      name: "figma",
-      icon: figma,
-    },*/
     {
-      name: "docker",
+      name: "Docker",
       icon: docker,
     },
   ];
