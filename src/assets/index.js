@@ -18,7 +18,7 @@ import mongodb from "./tech/mongodb.png";
 import mysql from "./tech/mysql.png";
 import ansible from "./tech/ansible.png";
 import kubernetes from "./tech/kubernetes.png";
-//import tailwind from "./tech/tailwind.png";
+import github1 from "./tech/github1.png";
 import yaml from "./tech/yaml.png";
 
 //import meta from "./company/meta.png";
@@ -50,7 +50,7 @@ export {
   mysql,
   ansible,
   kubernetes,
-  //tailwind,
+  github1,
   yaml,
   //meta,
   //shopify,

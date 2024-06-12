@@ -8,7 +8,7 @@ import {
     go,
     powershell,
     kubernetes,
-    //tailwind,
+    github1,
     ansible,
     mysql,
     mongodb,
@@ -92,10 +92,10 @@ import {
       name: "Kubernetes",
       icon: kubernetes,
     },
-   /* {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },*/
+    {
+      name: "Github",
+      icon: github1,
+    },
     {
       name: "Ansible",
       icon: ansible,
