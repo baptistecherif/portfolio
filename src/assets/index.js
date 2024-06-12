@@ -16,7 +16,7 @@ import go from "./tech/go.png";
 import json from "./tech/json.png";
 import mongodb from "./tech/mongodb.png";
 import mysql from "./tech/mysql.png";
-import nodejs from "./tech/nodejs.png";
+import ansible from "./tech/ansible.png";
 import kubernetes from "./tech/kubernetes.png";
 //import tailwind from "./tech/tailwind.png";
 import yaml from "./tech/yaml.png";
@@ -48,7 +48,7 @@ export {
   json,
   mongodb,
   mysql,
-  nodejs,
+  ansible,
   kubernetes,
   //tailwind,
   yaml,

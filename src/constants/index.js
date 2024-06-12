@@ -9,7 +9,7 @@ import {
     powershell,
     kubernetes,
     //tailwind,
-    nodejs,
+    ansible,
     mysql,
     mongodb,
     git,
@@ -97,8 +97,8 @@ import {
       icon: tailwind,
     },*/
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "Ansible",
+      icon: ansible,
     },
     {
       name: "MySQL",
