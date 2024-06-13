@@ -21,9 +21,9 @@ npm install --legacy-peer-deps -D postcss autoprefixer
 npm run dev
 ```
 
-Don't forget that if you depoloy it as i did on github.io
-rename in your *JSON packages* in *names* the thing by your repo last name for example *portfolio* in my case
-Add these two lines in *scripts* in *package.json* :
+Don't forget that if you deploy it as i did on github.io
+rename in your *package-lock.json* and *package.json* in *names* field the thing by your repo last name for example *portfolio* in my case.
+
 ```txt
 "predeploy": "npm run build",
 "deploy": "gh-pages -d dist",
