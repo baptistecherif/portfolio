@@ -12,14 +12,17 @@ Dependencies :
 ```txt
 npm install -D tailwindcss
 npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
-npm install --legacy-peer-deps -D postcss autoprefixer```
+npm install --legacy-peer-deps -D postcss autoprefixer
+```
 
 **Then if you want to run locally use :**
 
 ```txt
-npm run dev```
+npm run dev
+```
 
 **And to deploy :**
 
 ```txt
-npm run deploy```
+npm run deploy
+```
