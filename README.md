@@ -39,3 +39,5 @@ npm install gh-pages --save-dev
 ```txt
 npm run deploy
 ```
+
+Finally go in your repository *settings, page*, to change the *branch main* by *gh branch* and in root folder, then save.
