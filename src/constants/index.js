@@ -259,7 +259,7 @@ import {
     {
       name: "Pong",
       description:
-        "Local game to play, and you don't need an internet to play it.",
+        "Local Pong game to play, and you don't need an internet to play it.",
       tags: [
         {
           name: "html",
