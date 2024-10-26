@@ -52,10 +52,10 @@ import {
   ];
   
   const services = [
-    {
+    /*{
       title: "Network Administration & Security",
       icon: computer,
-    },
+    },*/
     {
       title: "Network Monitoring & Management Tools",
       icon: monimana,
