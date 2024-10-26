@@ -140,7 +140,7 @@ import {
       icon: solarwinds,
     },
     {
-      name: "cisco",
+      name: "Cisco",
       icon: cisco,
     },
     {
